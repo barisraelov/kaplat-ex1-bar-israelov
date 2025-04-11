@@ -1,1 +1,2 @@
 This is file A for the Git exercise.
+This is another line for step G.
